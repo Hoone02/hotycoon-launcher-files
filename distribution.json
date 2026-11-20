@@ -133,9 +133,9 @@
           "name": "HobaekTycoon Client",
           "type": "FabricMod",
           "artifact": {
-            "size": 1980286,
+            "size": 2062329,
             "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/hobaektycoon-client-1.0.0.jar",
-            "MD5": "32a26c206c1277f74cac316740389eb2"
+            "MD5": "d7475ff5bd871bc56f5a1975c266ff56"
           }
         },
         {

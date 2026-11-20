@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "new": true,
+      "date": "11.20",
+      "title": "런처 새 옷 입었어요",
+      "body": "인게임과 같은 코코아 디자인으로 바뀌었어요."
+    },
+    {
+      "date": "11.20",
+      "title": "기본 모드 추가",
+      "body": "Plasmo Voice · JourneyMap · Sodium · Iris · 한글 입력"
+    },
+    {
+      "date": "11.18",
+      "title": "랭킹 보드 오픈",
+      "body": "광장에 도감 · 납품 랭킹 보드가 생겼어요."
+    }
+  ]
+}

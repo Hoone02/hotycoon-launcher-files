@@ -1,0 +1,144 @@
+{
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": "hobaektycoon-26.2",
+      "name": "호타이쿤",
+      "description": "호백 타이쿤 서버 (Minecraft 26.2 · Fabric 0.19.3)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "26.2",
+      "mainServer": true,
+      "autoconnect": false,
+      "javaOptions": {
+        "supported": ">=25",
+        "suggestedMajor": 25
+      },
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.19.3",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1976502,
+            "MD5": "881e0e9f53a11b9ad468b47afd678bfd",
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/repo/lib/net/fabricmc/fabric-loader/0.19.3/fabric-loader-0.19.3.jar"
+          },
+          "subModules": [
+            {
+              "id": "26.2-fabric-0.19.3",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2838,
+                "MD5": "4de3e0a0ad586129872bb10615995418",
+                "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/repo/versions/26.2-fabric-0.19.3/26.2-fabric-0.19.3.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.10.1",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126151,
+                "MD5": "9cb72080438acf27f2607002e1444a7b",
+                "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/repo/lib/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.10.1",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35140,
+                "MD5": "6dd9011ec87f65e4b2e14e938c4118e4",
+                "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/repo/lib/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.10.1",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74840,
+                "MD5": "8eee0b1bdd046baf472eb83dd5e6bb44",
+                "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/repo/lib/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.10.1",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51958,
+                "MD5": "62541e1dc62331408ef31317555bf4fa",
+                "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/repo/lib/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.10.1",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 95628,
+                "MD5": "d0892ecb209867805e7d2418e5dc6c42",
+                "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/repo/lib/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.17.3+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1540060,
+                "MD5": "87002a5fc9faa1543bf4204f8d5876fb",
+                "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/repo/lib/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.156.0+26.2@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2531175,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/fabric-api-0.156.0-26.2.jar",
+            "MD5": "a42e80da3fadb6f202c7dc7f021408f5"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.14+kotlin.2.4.20@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 8143094,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/fabric-language-kotlin-1.13.14-kotlin.2.4.20.jar",
+            "MD5": "88658e66def762d6e80ed38e3ab8c7a3"
+          }
+        },
+        {
+          "id": "com.hobaek.tycoon:hobaektycoon-client:1.0.0@jar",
+          "name": "HobaekTycoon Client",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1980286,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/hobaektycoon-client-1.0.0.jar",
+            "MD5": "32a26c206c1277f74cac316740389eb2"
+          }
+        },
+        {
+          "id": "com.hobaek.tycoon.plaza:hotycoon_plaza:1.0.0@jar",
+          "name": "HobaekTycoon Plaza",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 809682,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/hotycoon-plaza-1.0.0.jar",
+            "MD5": "4487255b3cde34c6defa40a7b4406c2a"
+          }
+        }
+      ]
+    }
+  ]
+}

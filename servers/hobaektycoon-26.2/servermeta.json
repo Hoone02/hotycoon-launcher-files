@@ -1,0 +1,20 @@
+{
+  "$schema": "file:///G:/work/project/minecraft-server/tycoon/hobaek/launcher/files/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "호타이쿤",
+    "description": "호백 타이쿤 서버 (Minecraft 26.2 · Fabric 0.19.3)",
+    "icon": "",
+    "address": "localhost:25565",
+    "mainServer": true,
+    "autoconnect": false,
+    "javaOptions": {
+      "supported": ">=25",
+      "suggestedMajor": 25
+    }
+  },
+  "fabric": {
+    "version": "0.19.3"
+  },
+  "untrackedFiles": []
+}

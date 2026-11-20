@@ -119,6 +119,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:hangul:1.3.0-beta.12@jar",
+          "name": "Hangul",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 87094,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/hangul-1.3.0-beta.12-fabric.jar",
+            "MD5": "b7c5644f3ece2b0b00137f2590112885"
+          }
+        },
+        {
           "id": "com.hobaek.tycoon:hobaektycoon-client:1.0.0@jar",
           "name": "HobaekTycoon Client",
           "type": "FabricMod",
@@ -136,6 +146,46 @@
             "size": 809682,
             "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/hotycoon-plaza-1.0.0.jar",
             "MD5": "4487255b3cde34c6defa40a7b4406c2a"
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.11.4+mc26.2@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2821616,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/iris-fabric-1.11.4+mc26.2.jar",
+            "MD5": "267fa2e0f6994162f8dbde33d54dc2ce"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:26.2-6.0.10@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4365525,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/journeymap-fabric-26.2-6.0.10.jar",
+            "MD5": "40b2f41da32658336d744bfa4c35e500"
+          }
+        },
+        {
+          "id": "su.plo.voice:plasmovoice:2.2.0-beta.4@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 14372341,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/plasmovoice-fabric-26.2-2.2.0-beta.4.jar",
+            "MD5": "90aa7b946cf5fc55107e4deb9283da39"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.9.2+mc26.2@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1885572,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/sodium-fabric-0.9.2+mc26.2.jar",
+            "MD5": "fa97af208c24e320899c00cd0cff698a"
           }
         }
       ]

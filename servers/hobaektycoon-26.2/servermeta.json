@@ -7,7 +7,7 @@
     "icon": "",
     "address": "141.164.46.36:25565",
     "mainServer": true,
-    "autoconnect": false,
+    "autoconnect": true,
     "javaOptions": {
       "supported": ">=25",
       "suggestedMajor": 25

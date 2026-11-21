@@ -7,7 +7,7 @@
       "description": "호백 타이쿤 서버 (Minecraft 26.2 · Fabric 0.19.3)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "141.164.46.36:25565",
       "minecraftVersion": "26.2",
       "mainServer": true,
       "autoconnect": false,

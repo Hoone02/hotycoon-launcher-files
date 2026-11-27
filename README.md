@@ -23,3 +23,10 @@
 
 런처는 실행할 때마다 `distribution.json` 을 받아 파일 해시를 비교하므로, 이미 설치한 사람도
 다음 실행 때 바뀐 파일만 받습니다. raw.githubusercontent.com 캐시 때문에 반영까지 최대 5분.
+
+## 기본 셰이더 출처
+
+Complementary Shaders - Reimagined (제작 EminGT, https://www.complementary.dev/) 를 기본으로 켭니다.
+라이선스(Complementary License 1.8, 1.2.d)상 파일을 이 저장소에 올려 배포하지 않고, `extra-modules.json` 에서
+Modrinth CDN 주소로 받습니다. 버전을 바꿀 때는 Modrinth 의 파일 주소·크기·MD5 를 거기서 고치고,
+런처 `processbuilder.js` 의 `HOTY_SHADER_PACK` 도 같은 파일 이름으로 바꿉니다(새 기본값 단계를 붙여야 기존 설치본에 반영).

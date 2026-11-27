@@ -1,0 +1,16 @@
+{
+  "_comment": "Nebula 가 만들지 않는 모듈 — update-mods.ps1 이 distribution.json 에 붙인다. 셰이더(Complementary Reimagined)는 라이선스 1.2.d 상 파일을 직접 올려 배포할 수 없어 Modrinth CDN 주소로 받는다(1.2.a: 기본으로 켜므로 공지·README 에 출처 표기).",
+  "hobaektycoon-26.2": [
+    {
+      "id": "ComplementaryReimagined_r5.10.zip",
+      "name": "Complementary Shaders - Reimagined r5.10 (EminGT, Modrinth)",
+      "type": "File",
+      "artifact": {
+        "size": 567387,
+        "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/RKfUB9VC/ComplementaryReimagined_r5.10.zip",
+        "MD5": "e2144455213b7755319282f7481696a3",
+        "path": "shaderpacks/ComplementaryReimagined_r5.10.zip"
+      }
+    }
+  ]
+}

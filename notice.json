@@ -2,6 +2,11 @@
   "posts": [
     {
       "new": true,
+      "date": "11.27",
+      "title": "기본 셰이더 · FHD 창 · GUI 3",
+      "body": "Complementary Shaders - Reimagined(제작 EminGT, complementary.dev · Modrinth)가 기본으로 켜져요. 창은 1920x1080, GUI 비율은 3으로 시작해요. 끄려면 게임 설정 → 셰이더 팩."
+    },
+    {
       "date": "11.20",
       "title": "런처 새 옷 입었어요",
       "body": "인게임과 같은 코코아 디자인으로 바뀌었어요."

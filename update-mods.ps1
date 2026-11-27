@@ -15,6 +15,8 @@ try {
     if (-not (Test-Path "dist\index.js")) { npm run build }
     node dist/index.js g distro
     if ($LASTEXITCODE -ne 0) { throw "Nebula 실패" }
+    node (Join-Path $files "add-extra-modules.js")
+    if ($LASTEXITCODE -ne 0) { throw "추가 모듈 붙이기 실패" }
 } finally { Pop-Location }
 
 Push-Location $files

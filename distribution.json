@@ -129,23 +129,23 @@
           }
         },
         {
-          "id": "com.hobaek.tycoon:hobaektycoon-client:1.0.0@jar",
+          "id": "com.hobaek.tycoon:hobaektycoon-client:1.2.1@jar",
           "name": "HobaekTycoon Client",
           "type": "FabricMod",
           "artifact": {
-            "size": 2062329,
-            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/hobaektycoon-client-1.0.0.jar",
-            "MD5": "d7475ff5bd871bc56f5a1975c266ff56"
+            "size": 2072847,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/hobaektycoon-client-1.2.1.jar",
+            "MD5": "1713f077a6116aec8732fc4de2c09ef5"
           }
         },
         {
-          "id": "com.hobaek.tycoon.plaza:hotycoon_plaza:1.0.0@jar",
+          "id": "com.hobaek.tycoon.plaza:hotycoon_plaza:1.2.1@jar",
           "name": "HobaekTycoon Plaza",
           "type": "FabricMod",
           "artifact": {
-            "size": 809682,
-            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/hotycoon-plaza-1.0.0.jar",
-            "MD5": "4487255b3cde34c6defa40a7b4406c2a"
+            "size": 809545,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/hotycoon-plaza-1.2.1.jar",
+            "MD5": "e8003abeac331bf532950c579c4d13f5"
           }
         },
         {

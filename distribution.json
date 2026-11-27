@@ -169,13 +169,13 @@
           }
         },
         {
-          "id": "su.plo.voice:plasmovoice:2.2.0-beta.4@jar",
+          "id": "su.plo.voice:plasmovoice:2.1.17@jar",
           "name": "Plasmo Voice",
           "type": "FabricMod",
           "artifact": {
-            "size": 14372341,
-            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/plasmovoice-fabric-26.2-2.2.0-beta.4.jar",
-            "MD5": "90aa7b946cf5fc55107e4deb9283da39"
+            "size": 12247451,
+            "url": "https://raw.githubusercontent.com/Hoone02/hotycoon-launcher-files/main/servers/hobaektycoon-26.2/fabricmods/required/plasmovoice-fabric-26.2-2.1.17.jar",
+            "MD5": "91dead85f43a5bf70858bd65ea93e7d2"
           }
         },
         {
